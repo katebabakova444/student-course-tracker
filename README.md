@@ -1,25 +1,25 @@
-# 🎓 Student Course Tracker
+#  Student Course Tracker
 
 A Python CLI application for managing courses, students, and grades.
 
-## 💡 Why I Built This
+##  Why I Built This
 
 This was my first project using object-oriented programming. I wanted to learn how to structure data using classes, track state, and build a simple command-line interface from scratch.
 
-## 🛠 Features
+##  Features
 
 - Create and manage multiple courses
 - Add students to courses
 - Assign grades and view student performance
 - Export course reports to `.txt` files
 
-## 🔧 Tech & Concepts
+##  Tech & Concepts
 
 - Python OOP (classes, methods, instance attributes)
 - CLI input handling and data validation
 - File writing for text-based exports
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone this repository  
 2. Open a terminal in the project folder  
@@ -32,7 +32,7 @@ python main.py
 
 
 
-## 👩‍💻 Author
+##  Author
 
 Created by Kateryna Babakova (https://github.com/katebabakova444)
 This project is part of my backend development journey.
